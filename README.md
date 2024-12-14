@@ -1,4 +1,3 @@
-# Image-crack-detection-and-segmentation
 # Crack Segmentation using Deep Learning
 
 This repository contains code for segmenting cracks in images using deep learning, specifically employing a U-Net architecture and, optionally, a Feature Pyramid Hierarchical Boosting Network (FPHBN). This project can be used for various applications, such as infrastructure inspection, quality control, and material analysis.
